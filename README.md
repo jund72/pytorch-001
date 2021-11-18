@@ -12,4 +12,7 @@
 <br>  3.任务3：PyTorch全连接层原理和使用。
 <br>目标：在pytorch中使用矩阵乘法实现全连接层
 <br>i)学习全连接网络原理:https://blog.csdn.net/xiaodong_11/article/details/82015456
+<br>  4.任务4：PyTorch激活函数原理和使用
+<br>目标：在pytorch中手动实现上述激活函数
+<br>i)学习激活函数的原理，https://zhuanlan.zhihu.com/p/88429934
 <hr>pytorch的中文文档：https://www.bookstack.cn/read/PyTorch-1.2-zh/bcfaebf287a0e667.md
