@@ -15,7 +15,7 @@
 <br>  4.任务4：PyTorch激活函数原理和使用
 <br>目标：在pytorch中手动实现上述激活函数
 <br>i)学习激活函数的原理:https://zhuanlan.zhihu.com/p/88429934
-<br>  4.任务4：PyTorch激活函数原理和使用
+<br>  5.任务5：PyTorch激活函数原理和使用
 <br>目标：计算下如下卷积层的参数量nn.Conv2d(in_channels=1,out_channels=32,kernel_size=5,stride=1,padding=2)
 <br>i)理解卷积层的原理和具体使用:https://blog.csdn.net/qq_37385726/article/details/81739179
 <br>ii)理解卷积层的原理和具体使用:https://www.cnblogs.com/zhangxiann/p/13584415.html
